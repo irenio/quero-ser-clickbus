@@ -24,7 +24,7 @@ This API allows:
 - Make sure you have Maven and GIT installed and added to your operating system's PATH.
 ```
 git clone https://github.com/irenio/quero-ser-clickbus.git
-cd cd quero-ser-clickbus\testes\backend-developer\solution
+cd quero-ser-clickbus\testes\backend-developer\solution
 mvn spring-boot:run
 ```
 
