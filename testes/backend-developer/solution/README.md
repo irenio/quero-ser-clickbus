@@ -28,7 +28,7 @@ cd cd quero-ser-clickbus\testes\backend-developer\solution
 mvn spring-boot:run
 ```
 
-#How to import the project into Eclipse
-Import the project as a Maven project.
+# How to import the project into Eclipse
+- Import the project as a Maven project.
 
 
